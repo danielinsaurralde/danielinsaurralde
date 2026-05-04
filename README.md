@@ -1,5 +1,8 @@
-## Hi there 👋
+# 👋 Hola, soy Daniel
 
+### 📫 Cómo contactarme
+- Correo: danielinsaurralde719@gmail.com
+- Linkedin: [Daniel Insaurralde](https://www.linkedin.com/in/daniel-insaurralde)
 <!--
 **danielinsaurralde/danielinsaurralde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
